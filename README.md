@@ -1,4 +1,4 @@
-##AI for Good: Smart Supply Chain for Sustainable Oils
+AI for Good: Smart Supply Chain for Sustainable Oils
 
 Building AI course project
 ## Summary
